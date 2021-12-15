@@ -1,0 +1,2 @@
+# CodeSimiliarityCheckFYP
+Python Code checker 
