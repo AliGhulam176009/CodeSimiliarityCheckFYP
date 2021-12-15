@@ -1,2 +1,3 @@
 # CodeSimiliarityCheckFYP
-Python Code checker 
+# Distance Metric for Source Code Abstract Syntax Trees
+Python Code checker
